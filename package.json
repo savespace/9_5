@@ -1,0 +1,27 @@
+{
+  "name": "dom",
+  "version": "1.0.0",
+  "description": "dom1",
+  "main": "index.js",
+  "scripts": {
+    "test": "zadom"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/savespace/9_5.git"
+  },
+  "keywords": [
+    "95"
+  ],
+  "author": "Krzysztof Zielonka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savespace/9_5/issues"
+  },
+  "homepage": "https://github.com/savespace/9_5#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
